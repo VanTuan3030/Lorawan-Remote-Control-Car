@@ -95,3 +95,7 @@ Communication between STM32 and LoRa SX1278 uses the **SPI** standard.
 
 ---
 *Project for the Course Final Report - IoT & LoRa Applications.*
+
+https://github.com/user-attachments/assets/69dc1bef-388b-4bd6-928f-9bf30ec7da8c
+
+
